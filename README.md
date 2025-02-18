@@ -10,7 +10,7 @@ Features
 ✅ Accepts Nitrogen, Phosphorus, Potassium, Temperature, Humidity, Rainfall, and pH as input
 ✅ Displays the recommended crop for the given inputs
 
-ech Stack
+Tech Stack
 
 Frontend: HTML, CSS, JavaScript, Bootstrap
 Backend: Flask (Python)
